@@ -7,7 +7,9 @@ struct AnalysisCard3D: View {
     let onReanalyze: () -> Void
     @State private var isHoveringReanalyze = false
     
+
     var totalSize: Int64 {
+        
         cacheService.analysisResults.reduce(0) { $0 + $1.totalSize }
     }
     

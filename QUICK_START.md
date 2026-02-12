@@ -9,6 +9,8 @@
 ```xml
 <key>teamID</key>
 <string>YOUR_TEAM_ID_HERE</string>
+
+
 ```
 
 Team ID'nizi bulmak için: [developer.apple.com/account](https://developer.apple.com/account) > Membership

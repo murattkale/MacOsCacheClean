@@ -27,7 +27,7 @@
 	<key>NSSupportsAutomaticGraphicsSwitching</key>
 	<true/>
 	<key>NSFullDiskUsageDescription</key>
-	<string>Cache dosyalarını analiz etmek ve temizlemek için tam disk erişimine ihtiyacımız var. Bu, sistem performansınızı artırmak için gereklidir.</string>
+	<string>Cache dosyalarını analizz etmek ve temizlemek için tam disk erişimine ihtiyacımız var. Bu, sistem performansınızı artırmak için gereklidir.</string>
 	<key>NSDesktopFolderUsageDescription</key>
 	<string>Cache dosyalarını analiz etmek için masaüstü klasörüne erişim gereklidir.</string>
 	<key>NSDownloadsFolderUsageDescription</key>
